@@ -71,6 +71,11 @@ Base de données nommée `bibliotheque` optimisée pour répondre aux besoins de
 
 - Architecture backend en PHP pur, sans frameworks.  
 - Gestion des utilisateurs et authentification sécurisée (sessions PHP, protection CSRF, hachage bcrypt des mots de passe).
+# Vidéo Démo 📁
+
+Voici une démonstration de l'application :
+
+<video src="demo.mp4" controls></video>
 
 ## Conclusion
 
