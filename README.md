@@ -127,7 +127,11 @@ Hachage sécurisé des mots de passe avec bcrypt
 🎥 Vidéo Démo
 
 Une démonstration de l’application est disponible via le lien suivant :
-🔗 https://github.com/user-attachments/assets/c12780ce-f5ab-40fa-8266-04ffe7a05f00
+
+
+
+https://github.com/user-attachments/assets/e7deced2-496d-49d1-a5a4-03f0cd61f8c7
+
 
 Conclusion
 
